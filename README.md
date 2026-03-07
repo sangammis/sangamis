@@ -1,8 +1,9 @@
 Hi, I'm Sangam Mishra
 
-Data Scientist| Machine Learning | Analytics | AWS
+Data Scientist | Machine Learning | Analytics | AWS
 
 I have 4+ years of experience at Capgemini, specializing in SQL, Python, and Power BI to analyze large datasets and deliver actionable business insights.
+
 Currently focused on building end-to-end data science and analytics projects using Python, SQL, Machine Learning, and Power BI.
 
 ---------------------------------------------------
@@ -86,4 +87,4 @@ AWS (EC2, S3, IAM, CloudWatch) | Git | GitHub
 LinkedIn-:
 https://www.linkedin.com/in/sangam-m-22842b16a/
 Email-:
-sangamm482@mail.com
+sangamm482@gmail.com
