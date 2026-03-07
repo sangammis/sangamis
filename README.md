@@ -12,8 +12,8 @@ Currently focused on building end-to-end data science and analytics projects usi
 # Credit Risk Prediction
 Predict loan default probability using machine learning.
 
-<> markdown
-ML Pipeline
+
+ML Pipeline-:
 This project includes a production-ready Python pipeline.
 
 Run the pipeline using:
@@ -35,8 +35,8 @@ Tech: Python, Logistic Regression, XGBoost, Power BI
 # Healthcare Readmission Analytics
 Analyze patient readmission risk using ML and hospital data.
 
-<> markdown
-ML Pipeline
+
+ML Pipeline-:
 This project includes a production-ready Python pipeline.
 
 Run the pipeline using:
@@ -84,6 +84,6 @@ AWS (EC2, S3, IAM, CloudWatch) | Git | GitHub
 # Connect With Me
 
 LinkedIn-:
-https://www.linkedin.com/in/sangam-m-22842b16
-EmalId-:
+https://www.linkedin.com/in/sangam-m-22842b16a/
+Email-:
 sangamm482@mail.com
