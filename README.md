@@ -18,7 +18,7 @@ Pipeline-:
 This project includes a production-ready Python pipeline for data ingestion, data cleaning, and data transformation.
 
 Run the pipeline using:
-python src/rcredit_script.py
+python src/credit_script.py
 
 Steps performed:
 1. Data loading
