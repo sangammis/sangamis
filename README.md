@@ -81,8 +81,5 @@ AWS | Git | GitHub
 ---------------------------------------------------
 
 # Connect With Me
-
-LinkedIn-:
-https://www.linkedin.com/in/sangam-m-22842b16a/
 Email-:
 sangamm482@gmail.com
